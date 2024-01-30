@@ -1,6 +1,6 @@
-# Private Repositories
+# My Private Repositories
 
-Welcome to the private repository section of my portfolio. 
+Welcome to the private repository section of my projects.
 
 This repository contains code that is not open source and is not available for public viewing. If you've arrived here from a link, it means that the project you are interested in is not openly accessible.
 
